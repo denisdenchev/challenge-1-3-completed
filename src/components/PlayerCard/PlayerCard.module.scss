@@ -1,0 +1,17 @@
+.playerCardContent {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	border: 2px solid black;
+	height: 200px;
+	width: 400px;
+	text-align: center;
+	margin: 20px;
+
+	button {
+		width: 40%;
+		margin: 0 auto;
+		padding: 2px;
+		background-color: burlywood;
+	}
+}

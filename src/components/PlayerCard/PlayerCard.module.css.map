@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EAClB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,YAAY;EAC7B,MAAM,EAAE,eAAe;EACvB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,IAAI;CAQZ;;AAhBD,AAUC,kBAViB,CAUjB,MAAM,CAAC;EACN,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,GAAG;EACZ,gBAAgB,EAAE,SAAS;CAC3B",
+    "sources": [
+        "PlayerCard.module.scss"
+    ],
+    "names": [],
+    "file": "PlayerCard.module.css"
+}

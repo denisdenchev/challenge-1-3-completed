@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.content {
+	background-position: center;
+	background-size: cover;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	text-align: center;
+	height: 40vh;
+	width: 60vw;
+	border: black 2px solid;
+	border-radius: 20px;
+	color: white;
+	overflow: hidden;
+
+	@media only screen and (min-width: 768px) {
+		height: 40vh;
+		width: 30vw;
+	}
+}
